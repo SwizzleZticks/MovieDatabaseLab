@@ -5,3 +5,10 @@ C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\ConsoleApp1\obj\D
 C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\ConsoleApp1\obj\Debug\MovieDatabaseLab.csproj.CoreCompileInputs.cache
 C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\bin\Debug\ConsoleApp1.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\bin\Debug\ConsoleApp1.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\obj\Debug\MovieDatabaseLab.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\obj\Debug\MovieDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\obj\Debug\ConsoleApp1.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\Labs\MovieDatabaseLab\obj\Debug\ConsoleApp1.pdb

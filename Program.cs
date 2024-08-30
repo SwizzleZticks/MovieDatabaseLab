@@ -18,11 +18,14 @@ namespace MovieDatabaseLab
             Console.WriteLine($"There are {moviesList.Count} movies in this list.");
             do
             {
-                PrintSortedList();
                 int userInput = GetNumber();
                 SelectCategory(userInput);
-                
-                isActiveLoop = GetUserChoice();
+
+                if (userInput > 0 && userInput <= 5)
+                {
+                    isActiveLoop = GetUserChoice();
+                    Console.Clear();
+                }
             }while (isActiveLoop);
         }
 
@@ -75,6 +78,12 @@ namespace MovieDatabaseLab
                         PrintMovies("Science Fiction");
                         break;
                     }
+                default:
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Sorry but that is not a valid category... Please enter (1-5) to select a category from below.");
+                        break;
+                    }
             }
         }
         static void PrintSortedList()
@@ -104,6 +113,7 @@ namespace MovieDatabaseLab
             int result = -1;
             do
             {
+                PrintSortedList();
                 Console.Write("\nWhich category are you interested in? ");
                 isParsable = int.TryParse(Console.ReadLine(), out result);
             } while (!isParsable);
